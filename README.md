@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junc1024
-- 👀 I’m interested in representation of dynamical systems
-- 🌱 I’m currently learning  control theory, network science and cybersecurity and applications on power systems.
+- 👀 I’m interested in representation and other topics under the umbrella of dynamic systems. 
+- 🌱 I’m currently learning control theory, network science, and applications on power systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
